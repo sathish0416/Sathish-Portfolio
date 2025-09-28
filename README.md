@@ -6,7 +6,7 @@ Hello, I’m **Sathish Madanu**. This document provides details of my portfolio 
 
 ## 🚀 Live Demo
 
-**Website:** [https://sathishmadanu.dev/](https://sathishmadanu.dev/)
+**Website:** [https://sathish04-portfolio.vercel.app/]
 
 ## 🛠️ Tech Stack
 
